@@ -9,6 +9,6 @@ use App\Kernel\View\View;
 
 <?php $view->component('start'); ?>
 
-    <h1>Welcome to the Home Page</h1>
+    <h1>Home page</h1>
 
 <?php $view->component('end'); ?>
