@@ -15,6 +15,6 @@ class HomeController extends AbstractController
 
     private function isAuth(): bool
     {
-        return $this->identification()->isAuthorized();
+        return $this->identification()->isAuth();
     }
 }
