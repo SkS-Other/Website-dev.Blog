@@ -65,7 +65,7 @@ $view->component('header', $data);
             <h2>Author</h2>
             <p>dev.Blog is the first web project in PHP created by <a href="https://github.com/ShutovKS">Kirill
                     Shutov</a> in 2024.</p>
-            <p>If you have any questions or suggestions, please contact me by email: <a href="mailto:i@shutovks.ru">email</a>
+            <p>If you have any questions or suggestions, please contact me by email: <a href="mailto:46380958+xAFK-BOTx@users.noreply.github.com">email</a>
             </p>
             <h2>License</h2>
             <p>This project is licensed under the MIT license.</p>
