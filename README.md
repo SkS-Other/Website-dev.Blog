@@ -51,7 +51,7 @@ dev.Blog is an excellent way to share your knowledge and experience with other d
 
 ## Author
 
-dev.Blog is the first web project in PHP, created by [Kirill Shutov](https://github.com/ShutovKS) in 2024. If you have any questions or suggestions, please contact me via email: <46380958+xAFK-BOTx@users.noreply.github.com>.
+dev.Blog is the first web project in PHP, created by [xAFK-BOTx](https://github.com/xAFK-BOTx) in 2024. If you have any questions or suggestions, please contact me via email: <46380958+xAFK-BOTx@users.noreply.github.com>.
 
 ## License
 
